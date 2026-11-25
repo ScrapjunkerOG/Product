@@ -1,0 +1,4 @@
+product\Product.class
+product\ProductResource.class
+product\ProductHandler.class
+product\ProductList.class
